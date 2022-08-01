@@ -27,6 +27,8 @@ export default {
 </script>
 
 <style scoped>
+
+.row {z-index:10;}
 .toppanel{
     min-height: 93vh;
     background-color: rgb(255, 255, 255);
